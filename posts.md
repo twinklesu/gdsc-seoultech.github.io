@@ -2,7 +2,7 @@
 layout: page
 permalink: /posts/
 title: POST
-description: 인영이가 만드는 post 페이지.. 이거 상단은 page.html
+description: 강인영이가 만드는 post 페이지.. 이거 상단은 page.html
 ---
 
 <p>카테고리 누르면 카테고리 페이지로 이동, 글 누르면 각 글로 이동..! 
