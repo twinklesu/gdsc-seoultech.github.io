@@ -3,6 +3,7 @@ layout: post
 title:  seminar 2
 date:   2021-08-24 16:40:16
 description: 그냥 채워보는 글
+categories: [seminar]
 ---
 
 <h2>세미나나 이벤트용</h2>
